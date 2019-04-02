@@ -15,7 +15,7 @@ public class Main {
 
             for (i = 0; i < (2 * n) + 1; i++) {
 
-                for (int j = 0; j < (2 * n) + 1; j++) {
+                for (int j = 0; j < (4 * n) + 1; j++) {
 
                     if (i < n) {
                         if ((j > n - i) && (j < n + i)) {
